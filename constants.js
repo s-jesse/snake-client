@@ -8,7 +8,7 @@ const  MOVE_RIGHT_KEY = "d";
 const messages = {
   1: "oops",
   2: "try again"
-}
+};
 
 
 
